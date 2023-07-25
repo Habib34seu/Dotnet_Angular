@@ -1,0 +1,12 @@
+D:\UdemyPratice\datingApp1\src\datingApp.Domain\bin\Debug\net7.0\datingApp.Domain.deps.json
+D:\UdemyPratice\datingApp1\src\datingApp.Domain\bin\Debug\net7.0\datingApp.Domain.dll
+D:\UdemyPratice\datingApp1\src\datingApp.Domain\bin\Debug\net7.0\datingApp.Domain.pdb
+D:\UdemyPratice\datingApp1\src\datingApp.Domain\obj\Debug\net7.0\datingApp.Domain.csproj.AssemblyReference.cache
+D:\UdemyPratice\datingApp1\src\datingApp.Domain\obj\Debug\net7.0\datingApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\UdemyPratice\datingApp1\src\datingApp.Domain\obj\Debug\net7.0\datingApp.Domain.AssemblyInfoInputs.cache
+D:\UdemyPratice\datingApp1\src\datingApp.Domain\obj\Debug\net7.0\datingApp.Domain.AssemblyInfo.cs
+D:\UdemyPratice\datingApp1\src\datingApp.Domain\obj\Debug\net7.0\datingApp.Domain.csproj.CoreCompileInputs.cache
+D:\UdemyPratice\datingApp1\src\datingApp.Domain\obj\Debug\net7.0\datingApp.Domain.dll
+D:\UdemyPratice\datingApp1\src\datingApp.Domain\obj\Debug\net7.0\refint\datingApp.Domain.dll
+D:\UdemyPratice\datingApp1\src\datingApp.Domain\obj\Debug\net7.0\datingApp.Domain.pdb
+D:\UdemyPratice\datingApp1\src\datingApp.Domain\obj\Debug\net7.0\ref\datingApp.Domain.dll

@@ -1,0 +1,17 @@
+D:\UdemyPratice\datingApp1\src\datingApp.Infrastructure\bin\Debug\net7.0\datingApp.Infrastructure.deps.json
+D:\UdemyPratice\datingApp1\src\datingApp.Infrastructure\bin\Debug\net7.0\datingApp.Infrastructure.dll
+D:\UdemyPratice\datingApp1\src\datingApp.Infrastructure\bin\Debug\net7.0\datingApp.Infrastructure.pdb
+D:\UdemyPratice\datingApp1\src\datingApp.Infrastructure\bin\Debug\net7.0\datingApp.Domain.dll
+D:\UdemyPratice\datingApp1\src\datingApp.Infrastructure\bin\Debug\net7.0\datingApp.Domain.pdb
+D:\UdemyPratice\datingApp1\src\datingApp.Infrastructure\obj\Debug\net7.0\datingApp.Infrastructure.csproj.AssemblyReference.cache
+D:\UdemyPratice\datingApp1\src\datingApp.Infrastructure\obj\Debug\net7.0\datingApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\UdemyPratice\datingApp1\src\datingApp.Infrastructure\obj\Debug\net7.0\datingApp.Infrastructure.AssemblyInfoInputs.cache
+D:\UdemyPratice\datingApp1\src\datingApp.Infrastructure\obj\Debug\net7.0\datingApp.Infrastructure.AssemblyInfo.cs
+D:\UdemyPratice\datingApp1\src\datingApp.Infrastructure\obj\Debug\net7.0\datingApp.Infrastructure.csproj.CoreCompileInputs.cache
+D:\UdemyPratice\datingApp1\src\datingApp.Infrastructure\obj\Debug\net7.0\datingApp.Infrastructure.csproj.CopyComplete
+D:\UdemyPratice\datingApp1\src\datingApp.Infrastructure\obj\Debug\net7.0\datingApp.Infrastructure.dll
+D:\UdemyPratice\datingApp1\src\datingApp.Infrastructure\obj\Debug\net7.0\refint\datingApp.Infrastructure.dll
+D:\UdemyPratice\datingApp1\src\datingApp.Infrastructure\obj\Debug\net7.0\datingApp.Infrastructure.pdb
+D:\UdemyPratice\datingApp1\src\datingApp.Infrastructure\obj\Debug\net7.0\ref\datingApp.Infrastructure.dll
+D:\UdemyPratice\datingApp1\src\datingApp.Infrastructure\bin\Debug\net7.0\datingApp.Infrastructure.runtimeconfig.json
+D:\UdemyPratice\datingApp1\src\datingApp.Infrastructure\obj\Debug\net7.0\datingApp.Infrastructure.genruntimeconfig.cache
